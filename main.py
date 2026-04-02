@@ -664,7 +664,7 @@ print("Results saved to: ./semeval_results.json")
 #
 
 print("\n" + "="*60)
-print("🎉 SEMEVAL 2017 SUBTASK A - COMPLETE IMPLEMENTATION SUMMARY")
+print("SEMEVAL 2017 SUBTASK A - COMPLETE IMPLEMENTATION SUMMARY")
 print("="*60)
 print(f"Dataset: SemEval 2017 Task 4 Subtask A")
 print(f"Model: {MODEL_NAME}")
