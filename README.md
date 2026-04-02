@@ -75,7 +75,7 @@ Weighted F1	0.82
 Macro F1	0.79
 
 The model performs best on positive and negative sentiments, with minor overlap in neutral predictions.
-🧠 Technologies Used:-
+Technologies Used:-
 Python 3.10
 Transformers (Hugging Face)
 Datasets
